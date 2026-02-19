@@ -23,3 +23,7 @@ A Python Selenium automation tool that monitors product prices from e-commerce w
 pip install -r requirements.txt
 python scraper.py
 python report.py
+
+## Update Log
+
+- Improved project documentation.
