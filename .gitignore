@@ -1,6 +1,18 @@
-venv/
-pycache/
+# python
+__pycache__/
 *.pyc
-output/
+*.pyo
+*.pyd
+
+# env
+.env
+venv/
+.venv/
+
+# vscode & mac
 .vscode/
 .DS_Store
+
+# outputs
+output/
+*.log

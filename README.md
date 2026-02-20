@@ -27,3 +27,8 @@ python report.py
 ## Update Log
 
 - Improved project documentation.
+
+
+## Update Log
+- Improved documentation (setup & run steps)
+- Updated ignore rules to keep repository clean
